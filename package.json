@@ -1,16 +1,16 @@
 {
-    "name": "sample-popcorn",
-    "version": "0.1.0",
-    "dependencies": {
-        "montage": "~0.16.0",
-        "digit": "~0.6.1",
-		"query-params": "0.0.1",
-		"url": "0.7.9"
-    },
-    "devDependencies": {
-		"mop": "^0.15.1"
-	},
-	"scripts": {
-		"mop": "mop"
-	}
+  "name": "Popcorn",
+  "version": "0.3.1",
+  "dependencies": {
+    "digit": "^0.6.1",
+    "montage": "^16.0.0",
+    "query-params": "0.0.1",
+    "url": "0.7.9"
+  },
+  "devDependencies": {
+    "mop": "^0.15.1"
+  },
+  "scripts": {
+    "mop": "mop"
+  }
 }
